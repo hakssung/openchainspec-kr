@@ -1096,8 +1096,8 @@
       <tuv xml:lang="EN-US">
         <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does <ph x="0">&lt;t0/&gt;</ph>not guarantee full compliance.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T000229Z" creationid="Jang" creationdate="20170722T000229Z">
-        <seg>Vision과 Mission에 따라 이 설명서 일련의 요구사항을 정의하고, 이 요구사항이 충족하는오픈소스 프로그램이라면 충분한 수준의 품질, 일관성 및 완전성을 달성했을 가능성을 높일 것이다. 다만, 설명서의 모든 요구사항을 만족하는 프로그램이라도 완전한 Compliance가 보장되는 것은 아니다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072343Z" creationid="Jang" creationdate="20170722T000229Z">
+        <seg>Vision과 Mission에 따라 이 설명서 일련의 요구사항을 정의하고, 이 요구사항이 충족하는 오픈소스 프로그램이라면 충분한 수준의 품질, 일관성 및 완전성을 달성했을 가능성을 높일 것이다. 다만, 설명서의 모든 요구사항을 만족하는 프로그램이라도 완전한 Compliance가 보장되는 것은 아니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,8 +1240,8 @@
       <tuv xml:lang="EN-US">
         <seg>OpenChain <ph x="0">&lt;t0/&gt;</ph>Conforming<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>-<ph x="3">&lt;t3/&gt;</ph> a program that satisfies all the requirements of this specification.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T001512Z" creationid="Jang" creationdate="20170722T001512Z">
-        <seg>OpenChain 준수 프로그램 - 이 설명서의 모든 요구사항을 충족하하는 프로그램.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072326Z" creationid="Jang" creationdate="20170722T001512Z">
+        <seg>OpenChain 준수 프로그램 - 이 설명서의 모든 요구사항을 충족하는 프로그램.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,8 +1264,8 @@
       <tuv xml:lang="EN-US">
         <seg>OpenChain Conforming <ph x="0">&lt;t0/&gt;</ph>– a program that satisfies all the requirements of this specification.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T063837Z" creationid="Jang" creationdate="20170722T063837Z">
-        <seg>OpenChain 준수 프로그램 <ph x="0">&lt;t0/&gt;</ph>– 이 설명서의 모든 요구사항을 충족하하는 프로그램.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072220Z" creationid="Jang" creationdate="20170722T063837Z">
+        <seg>OpenChain 준수 프로그램 <ph x="0">&lt;t0/&gt;</ph>– 이 설명서의 모든 요구사항을 충족하는 프로그램.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv xml:lang="EN-US">
         <seg>They represent the evidence that must exist in order for a given requirement to be considered satisfied.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T000309Z" creationid="Jang" creationdate="20170722T000309Z">
-        <seg>이들은 어떤 요구사항이 총족된 것으로 인정되기 위해 필요한 증거이다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072408Z" creationid="Jang" creationdate="20170722T000309Z">
+        <seg>이들은 어떤 요구사항이 충족된 것으로 인정되기 위해 필요한 증거이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,8 +1760,8 @@
       <tuv xml:lang="EN-US">
         <seg>To ensure a <ph x="0">&lt;t0/&gt;</ph>process<ph x="1">&lt;t1/&gt;</ph> exists for reviewing and identifying the license obligations for each Identified License <ph x="2">&lt;t2/&gt;</ph>for the <ph x="3">&lt;t3/&gt;</ph>various<ph x="4">&lt;t4/&gt;</ph> use case<ph x="5">&lt;t5/&gt;</ph>s<ph x="6">&lt;t6/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T005242Z" creationid="Jang" creationdate="20170722T005242Z">
-        <seg>다양한 사용 사례에 대해 각 식별된 라이선스에 대한 라이선스 의무를 검토하고 식별하기위한 프로세스가 존재하도록 보장하기 위함</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072647Z" creationid="Jang" creationdate="20170722T005242Z">
+        <seg>다양한 사용 사례에 대해 각 식별된 라이선스에 대한 라이선스 의무를 검토하고 식별하기 위한 프로세스가 존재하도록 보장하기 위함</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,16 +1920,16 @@
       <tuv xml:lang="EN-US">
         <seg>contains FOSS or other software under an incompatible license interacting with other componen<ph x="0">&lt;t0/&gt;</ph>ts within the Supplied <ph x="1">&lt;t1/&gt;</ph>Software; and/or</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T021851Z" creationid="Jang" creationdate="20170722T021757Z">
-        <seg>공급 대상 Software 내의 다른 Component와 상호 작용하면서,  상호충돌하는 라이선스가 적용되는 FOSS 혹은 다른 Software를 포함하는 경우; 그리고/또는</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072814Z" creationid="Jang" creationdate="20170722T021757Z">
+        <seg>공급 대상 Software 내의 다른 Component와 상호 작용하면서, 상호 충돌하는 라이선스가 적용되는 FOSS 혹은 다른 Software를 포함하는 경우; 그리고/또는</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>contains FOSS or other software under an incompatible license interacting with other components within the Supplied Software</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T065055Z" creationid="Jang" creationdate="20170722T065055Z">
-        <seg>공급 대상 Software 내의 다른 Component와 상호 작용하면서,  상호충돌하는 라이선스가 적용되는 FOSS 혹은 다른 Software를 포함하는 경우</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072723Z" creationid="Jang" creationdate="20170722T065055Z">
+        <seg>공급 대상 Software 내의 다른 Component와 상호 작용하면서, 상호 충돌하는 라이선스가 적용되는 FOSS 혹은 다른 Software를 포함하는 경우</seg>
       </tuv>
     </tu>
     <tu>
