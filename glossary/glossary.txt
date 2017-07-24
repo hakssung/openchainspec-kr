@@ -51,3 +51,5 @@ restriction	제한
 right	권리
 use case	사용 사례
 affirm	확약한다
+Version	버전
+Disclaimer	면책
