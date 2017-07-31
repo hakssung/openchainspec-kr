@@ -55,7 +55,13 @@ Version	버전
 Disclaimer	면책
 Software	소프트웨어
 Engineer	엔지니어
-Release	릴리즈
 Slide	슬라이드
 Online	온라인
 email	이메일
+Contents	목차	Contents
+downstream	하위
+upstream	상위
+standard	표준적
+Vision	비전
+Mission	사명
+release	배포

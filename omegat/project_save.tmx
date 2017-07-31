@@ -416,8 +416,8 @@
       <tuv lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: &lt;t0/&gt;i&lt;t1/&gt;) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T132541Z" creationid="Jang" creationdate="20170721T235800Z">
-        <seg>이에 다음의 역할을 하는 Standard 프로그램 설명서가 제작될 수 있는지 검토하기 위해 스터디 그룹이 구성되었다: i) 업계에서 공유되는 오픈소스 Compliance 정보의 품질과 일관성 향상; ii) Compliance 재작업으로 인해 발생하는 높은 오픈소스 관련 거래 비용의 절감.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133503Z" creationid="Jang" creationdate="20170721T235800Z">
+        <seg>이에 다음의 역할을 하는 표준적 프로그램 설명서가 제작될 수 있는지 검토하기 위해 스터디 그룹이 구성되었다: i) 업계에서 공유되는 오픈소스 Compliance 정보의 품질과 일관성 향상; ii) Compliance 재작업으로 인해 발생하는 높은 오픈소스 관련 거래 비용의 절감.</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,16 +488,16 @@
       <tuv lang="EN-US">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed b&lt;t0/&gt;y other upstream organizations.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T134118Z" creationid="Jang" creationdate="20170721T235754Z">
-        <seg>결과적으로 소프트웨어 공급망 내 각 단계에서의 Downstream 조직은 Upstream 조직에서 이미 수행한 Compliance 작업을 다시 수행하는 일이 자주 발생하게 되었다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133434Z" creationid="Jang" creationdate="20170721T235754Z">
+        <seg>결과적으로 소프트웨어 공급망 내 각 단계에서의 하위 조직은 상위 조직에서 이미 수행한 Compliance 작업을 다시 수행하는 일이 자주 발생하게 되었다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T133551Z" creationid="Jang" creationdate="20170722T063804Z">
-        <seg>결과적으로 소프트웨어 공급망 내 각 단계에서의 Downstream 조직은 Upstream 조직에서 이미 수행한 Compliance 작업을 다시 수행하는 일이 자주 발생하게 되었다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133915Z" creationid="Jang" creationdate="20170722T063804Z">
+        <seg>결과적으로 소프트웨어 공급망 내 각 단계에서의 하위 조직은 상위 조직에서 이미 수행한 Compliance 작업을 다시 수행하는 일이 자주 발생하게 되었다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133334Z" creationid="Jang" creationdate="20170731T133334Z">
+        <seg>목차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copies of the Compliance Artifacts of the Supplied Software &lt;t0/&gt;release&lt;t1/&gt; &lt;t2/&gt;are archived and easily retrievable, and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170724T143247Z" creationid="Jang" creationdate="20170722T025732Z">
@@ -624,16 +632,16 @@
       <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170721T164740Z" creationid="Jang" creationdate="20170721T164740Z">
-        <seg>정의</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T134537Z" creationid="Jang" creationdate="20170721T164740Z">
+        <seg>제2절 정의</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T143422Z" creationid="Jang" creationdate="20170722T063839Z">
-        <seg>조직에 따라 소프트웨어 개발자, 릴리즈 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있지만, 이에 국한되지 않는다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T141424Z" creationid="Jang" creationdate="20170722T063839Z">
+        <seg>조직에 따라 소프트웨어 개발자, 배포 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있지만, 이에 국한되지 않는다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1096,8 @@
       <tuv lang="EN-US">
         <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.0 of the specification.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170722T063826Z" creationid="Jang" creationdate="20170722T063826Z">
-        <seg>어떤 프로그램이 모든 요구사항을 충족한다면, 그 프로그램은 이 설명서 version 1.0에 따라 OpenChain 준수 프로그램으로 인정될 것이다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T134033Z" creationid="Jang" creationdate="20170722T063826Z">
+        <seg>어떤 프로그램이 모든 요구사항을 충족한다면, 그 프로그램은 이 설명서 버전 1.0에 따라 OpenChain 준수 프로그램으로 인정될 것이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1168,8 @@
       <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170721T164734Z" creationid="Jang" creationdate="20170721T164734Z">
-        <seg>소개</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133902Z" creationid="Jang" creationdate="20170721T164734Z">
+        <seg>제1절 소개</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,16 +1224,16 @@
       <tuv lang="EN-US">
         <seg>Mission&lt;t0/&gt;: &lt;t1/&gt;Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T142119Z" creationid="Jang" creationdate="20170722T000213Z">
-        <seg>Mission&lt;t0/&gt;: 소프트웨어 공급망 참가자를 위해, FOSS의 효과적인 관리를 위한 요구사항을 수립하여 요구사항 및 부수적인 관련 사항을 소프트웨어 공급망, 오픈소스 Community 및 학계가 공동으로, 또한 공개적으로 개발할 수 있도록 한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133550Z" creationid="Jang" creationdate="20170722T000213Z">
+        <seg>사명: 소프트웨어 공급망 참가자를 위해, FOSS의 효과적인 관리를 위한 요구사항을 수립하여 요구사항 및 부수적인 관련 사항을 소프트웨어 공급망, 오픈소스 Community 및 학계가 공동으로, 또한 공개적으로 개발할 수 있도록 한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Mission&lt;t0/&gt;: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and&lt;t1/&gt; &lt;t2/&gt;academia.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T133612Z" creationid="Jang" creationdate="20170722T063813Z">
-        <seg>Mission&lt;t0/&gt;: 소프트웨어 공급망 참가자를 위해, FOSS의 효과적인 관리를 위한 요구사항을 수립하여 요구사항 및 부수적인 관련 사항을 소프트웨어 공급망, 오픈소스 Community 및 학계가 공동으로, 또한 공개적으로 개발할 수 있도록 한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133951Z" creationid="Jang" creationdate="20170722T063813Z">
+        <seg>사명: 소프트웨어 공급망 참가자를 위해, FOSS의 효과적인 관리를 위한 요구사항을 수립하여 요구사항 및 부수적인 관련 사항을 소프트웨어 공급망, 오픈소스 Community 및 학계가 공동으로, 또한 공개적으로 개발할 수 있도록 한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,16 +1376,16 @@
       <tuv lang="EN-US">
         <seg>Requirements</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170721T164748Z" creationid="Jang" creationdate="20170721T164748Z">
-        <seg>요구사항</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T134624Z" creationid="Jang" creationdate="20170721T164748Z">
+        <seg>제3절 요구사항</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>SPDX &lt;t0/&gt;or Software Package Data Exchange – the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T133742Z" creationid="Jang" creationdate="20170722T063840Z">
-        <seg>SPDX &lt;t0/&gt;(Software Package Data Exchange) – 소프트웨어 패키지에 대한 라이선스 및 저작권 정보를 교환하기 위해 SPDX 워크 그룹이 만든 표준 형식이다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T141525Z" creationid="Jang" creationdate="20170722T063840Z">
+        <seg>SPDX &lt;t0/&gt;(Software Package Data Exchange) – 소프트웨어 패키지에 대한 라이선스 및 저작권 정보를 교환하기 위해 SPDX 워킹 그룹이 만든 표준 형식이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,16 +1400,16 @@
       <tuv lang="EN-US">
         <seg>Section 2 introduces definitions of key terms used throughout the specification.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170722T000306Z" creationid="Jang" creationdate="20170722T000306Z">
-        <seg>Section 2에서는 설명서 전체에 걸쳐서 사용되는 주요 용어의 정의를 소개한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133628Z" creationid="Jang" creationdate="20170722T000306Z">
+        <seg>제2절에서는 설명서 전체에 걸쳐서 사용되는 주요 용어의 정의를 소개한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Section 3 presents the specification requirements where each one has a list of one or more Verification Artifacts.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170722T000307Z" creationid="Jang" creationdate="20170722T000307Z">
-        <seg>Section 3에서는 각 설명서 요구사항을 나타내는데, 각 요구사항에 대해 하나 혹은 그 이상의 검증 결과물 목록을 제시한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133646Z" creationid="Jang" creationdate="20170722T000307Z">
+        <seg>제3절에서는 각 설명서 요구사항을 나타내는데, 각 요구사항에 대해 하나 혹은 그 이상의 검증 결과물 목록을 제시한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,8 +1552,8 @@
       <tuv lang="EN-US">
         <seg>The Vision and Mission of the OpenChain Initiative are as follows:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170721T235815Z" creationid="Jang" creationdate="20170721T235815Z">
-        <seg>OpenChain Initiative의 Vision과 Mission은 다음과 같다:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133528Z" creationid="Jang" creationdate="20170721T235815Z">
+        <seg>OpenChain Initiative의 비전과 사명은 다음과 같다:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1616,8 @@
       <tuv lang="EN-US">
         <seg>The specification focuses on the “what” and “why” qualities of a compliance program as opposed to the “how” and “when” considerations.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T130739Z" creationid="Jang" creationdate="20170722T000249Z">
-        <seg>이 설명서는 "How"와 "When"에 대한 고려가 아닌 Compliance 프로그램의 "What"과 "Why"에 대해 초점을 맞추고 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133622Z" creationid="Jang" creationdate="20170722T000249Z">
+        <seg>이 설명서는 "어떻게"와 "언제"에 대한 고려가 아닌 Compliance 프로그램의 "무엇"과 "왜"에 대해 초점을 맞추고 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,16 +1880,16 @@
       <tuv lang="EN-US">
         <seg>Vision&lt;t0/&gt;: &lt;t1/&gt;A software supply chain where free/open source software (FOSS) is delivered with &lt;t2/&gt;trustworthy&lt;t3/&gt; and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T134137Z" creationid="Jang" creationdate="20170722T000051Z">
-        <seg>Vision: 신뢰할 수 있고 일관된 Compliance 정보와 함께 Free/Open Source Software(FOSS)를 제공하는 소프트웨어 공급망</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133535Z" creationid="Jang" creationdate="20170722T000051Z">
+        <seg>비전: 신뢰할 수 있고 일관된 Compliance 정보와 함께 Free/Open Source Software(FOSS)를 제공하는 소프트웨어 공급망</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vision&lt;t0/&gt;: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance&lt;t1/&gt; &lt;t2/&gt;information.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170724T133604Z" creationid="Jang" creationdate="20170722T063811Z">
-        <seg>Vision&lt;t0/&gt;: 신뢰할 수 있고 일관된 Compliance 정보와 함께 Free/Open Source Software(FOSS)를 제공하는 소프트웨어 공급망</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170731T133933Z" creationid="Jang" creationdate="20170722T063811Z">
+        <seg>비전: 신뢰할 수 있고 일관된 Compliance 정보와 함께 Free/Open Source Software(FOSS)를 제공하는 소프트웨어 공급망</seg>
       </tuv>
     </tu>
     <tu>
